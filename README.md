@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Ravi Kumar Sunkhesvarapu 
-- 👀 I’m interested in exploring new technologies.  
-- 🌱 I’m currently learning Python Bash.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: ravikumar.srk456@gmail.com
+👩‍💻 About Me
+I'm Ravi Kumar Sunkhesvarapu, born in Andhra Pradesh, India, and now living in United States.
 
-<!---
-Ravi Kumar Sunkhesvarapu  is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m working as a Cloud Engineer 
+- 📚 I'm currently Learning Kubernetes and new Technologies related to Cloud/DevOps Field.
+- ⚡ In my free time, I help with The CloudOps Community, create YouTube video tutorials, and mentor Cloud and DevOps aspirants.
+- - 📫 How to reach me: ravikumar.srk456@gmail.com
+
+🛠 Language and tools
+Azure 
+Terraform
+Kubernates
+CI/CD( Github Actions, Jenkins)
+Prometheus, Grafana
+Python, Bash
