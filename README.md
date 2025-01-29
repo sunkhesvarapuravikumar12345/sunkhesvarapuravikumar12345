@@ -7,9 +7,9 @@ I'm Ravi Kumar Sunkhesvarapu, born in Andhra Pradesh, India, and now living in U
 - - 📫 How to reach me: ravikumar.srk456@gmail.com
 
 🛠 Language and tools::
-Azure 
-Terraform
-Kubernates
-CI/CD( Github Actions, Jenkins)
-Prometheus, Grafana
-Python, Bash
+Azure,
+Terraform,
+Kubernates,
+CI/CD( Github Actions, Jenkins),
+Prometheus, Grafana,
+Python, Bash.
