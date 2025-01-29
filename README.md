@@ -1,5 +1,5 @@
-👩‍💻 About Me
-I'm Ravi Kumar Sunkhesvarapu, born in Andhra Pradesh, India, and now living in United States.
+👩‍💻 About Me:
+I'm Ravi Kumar Sunkhesvarapu, born in Andhra Pradesh(India), and now living in United States.
 
 - 🔭 I’m working as a Cloud Engineer 
 - 📚 I'm currently Learning Kubernetes and new Technologies related to Cloud/DevOps Field.
