@@ -9,8 +9,6 @@ I'm Ravi Kumar Sunkhesvarapu, born in Andhra Pradesh(India), and now living in U
 🛠 Language and tools::
 Azure,
 Bicep,
-Terraform,
-Kubernates,
-CI/CD( Github Actions, Azure DEvOps),
-Prometheus, Grafana,
-Python, Bash.
+CI/CD(Github Actions, Azure DevOps),
+Python, Bash,
+Prometheus, Grafana,Kubernates,
